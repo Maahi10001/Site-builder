@@ -55,10 +55,8 @@ If you like the project you can support it with a [PayPal donation](https://payp
 
 ### Tweaked by: 
 
-👤 **Sibongumusa Lungelo**
-
-* Twitter: [@S_codes14](https://twitter.com/S_codes14)
-* Github: [@S-codes14](https://github.com/S-codes14)
+👤 **Maahi**
+* Github: [@S-codes14](https://github.com/Maahi10001)
 
 ## License
 
