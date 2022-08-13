@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/81442054/119279026-6048d900-bc29-11eb-88e2-9b38a6869a9d.png" width="250" height="250" align="center" >
-
-# Smaller-sites
+# Site-Builder
 
 
 ## Drag and drop website builder 
