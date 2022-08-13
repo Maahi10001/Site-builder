@@ -31,7 +31,7 @@ By default the editor comes with Bootstrap 4 and Widgets components and can be e
 
 ## Documentation
 
-For documentation check the [wiki](https://github.com/S-codes14/smaller-sites/wiki)
+For documentation check the [wiki](https://github.com/Maahi10001/Site-builder/wiki)
 
 ## Credits & Authors
 ### Templates
