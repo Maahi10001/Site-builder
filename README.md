@@ -40,19 +40,14 @@ By default the editor comes with Bootstrap 4 and Widgets components and can be e
 
 For documentation check the [wiki](https://github.com/S-codes14/smaller-sites/wiki)
 
-## Support
-
-If you like the project you can support it with a [PayPal donation](https://paypal.me/scodes14) 
-
 ## Credits & Authors
 ### Templates
  * Mobirise @ https://mobirise.com
-### Originally made by:
+### Reference:
 
 👤 **Givan**
 * Github: [@givanz](https://github.com/givanz )
-
-
+* 
 ### Tweaked by: 
 
 👤 **Maahi**
