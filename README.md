@@ -23,11 +23,6 @@ Using [Startbootstrap landing page](https://startbootstrap.com/template-overview
 
 By default the editor comes with Bootstrap 4 and Widgets components and can be extended with any kind of components and inputs.
 
-## Usage
-[website](https://smaller-sites.netlify.app)<br>
-       * Website deployed at https://smaller-sites.netlify.app<br>
-       * Desktop application comming soon (thinking of using electron)
-
 ## Contributing
         * For adding templates (Documentation comming soon)
         * For editor html and components/input javascript templates check editor.html
