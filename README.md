@@ -36,16 +36,9 @@ For documentation check the [wiki](https://github.com/Maahi10001/Site-builder/wi
 ## Credits & Authors
 ### Templates
  * Mobirise @ https://mobirise.com
-### Reference:
-
-👤 **Givan**
-* Github: [@givanz](https://github.com/givanz )
-* 
-### Tweaked by: 
 
 👤 **Maahi**
-* Github: [@S-codes14](https://github.com/Maahi10001)
+* Github: [@Maahi10001](https://github.com/Maahi10001)
 
 ## License
-
 Apache 2.0
